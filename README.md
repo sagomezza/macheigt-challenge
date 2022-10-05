@@ -13,7 +13,7 @@ In my case I progrogrammed this challenge in node v16.8.0 and npm v7.21.0.
 I recommend to use nvm for manage node and its versions. It makes your life easier:
 (https://github.com/nvm-sh/nvm)
 
-Now that you have node in your machine, clone the repo and move to the path where you clonned it. Then use this command: 
+Now that you have node in your machine, clone the repo and move to the root of the project. Then use this command: 
 
 ```
 npm start
