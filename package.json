@@ -1,0 +1,23 @@
+{
+    "name": "maceight-challenge",
+    "version": "1.0.0",
+    "description": "Code chanllenge from Mac Eight",
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sagomezza/macheigt-challenge.git"
+    },
+    "author": "Santiago Gomez Zabala",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sagomezza/macheigt-challenge/issues"
+    },
+    "homepage": "https://github.com/sagomezza/macheigt-challenge#readme",
+    "devDependencies": {
+        "jest": "^29.1.2"
+    }
+}
